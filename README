@@ -1,0 +1,4 @@
+JustMQ
+======
+
+Message queue, written in python, using circuits event-driven framework, which supports publisher/subscriber pattern and topics, like in RabbitMQ.
